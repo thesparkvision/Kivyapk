@@ -8,8 +8,8 @@ source.dir = .
 source.include_exts = py,png,jpg,kv,atlas
 
 version = 0.1
-requirements = python3,certifi==2020.12.5,chardet==3.0.4,comtypes==1.1.7,docutils==0.16,idna==2.10,Kivy==2.0.0,kivy-deps.angle==0.3.0,kivy-deps.glew==0.3.0,kivy-deps.sdl2==0.3.1,
-Kivy-Garden==0.1.4,Pygments==2.7.3,pypiwin32==223,pyttsx3==2.90,pywin32==300,requests==2.25.0,urllib3==1.26.2
+requirements = python3,certifi,chardet,comtypes,docutils,idna,Kivy,kivy-deps.angle,kivy-deps.glew,kivy-deps.sdl2,
+Kivy-Garden,Pygments,pypiwin32,pyttsx3,pywin32,requests,urllib3
 
 orientation = portrait
 fullscreen = 0

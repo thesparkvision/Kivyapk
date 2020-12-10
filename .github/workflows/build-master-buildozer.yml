@@ -26,7 +26,7 @@ jobs:
           path: master
 
       - name: Build with Buildozer
-        uses: ./master # REPLACE WITH ArtemSBulgakov/buildozer-action@v1
+        uses: ArtemSBulgakov/buildozer-action@v1
         id: buildozer
         with:
           repository_root: master
